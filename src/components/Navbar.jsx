@@ -44,7 +44,6 @@ export default function NavBar({ toggleTheme }) {
           alt="light-mode"
         />
         <NotificationModel />
-        <Button onClick={logoutUser}>Logout</Button>
       </nav>
       <Sheet>
         <SheetTrigger asChild>
@@ -75,7 +74,6 @@ export default function NavBar({ toggleTheme }) {
               }
               alt="light-mode"
             />
-            <Button OnClick={logoutUser}>Logout</Button>
           </div>
         </SheetContent>
       </Sheet>
