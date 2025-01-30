@@ -39,7 +39,7 @@ function App() {
         <ChatSupport />
         <Routes>
           <Route
-            path="/login"
+            path="/"
             element={
               <div>
                 <LoginPage />
