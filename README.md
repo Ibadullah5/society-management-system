@@ -25,9 +25,6 @@ The website consists of multiple pages, each serving a specific purpose. Below i
 
 📌 **Endpoint:** `/`
 
-- Includes a contact form for users to reach out.
-- Displays contact details like email, phone number, and address.
-
 ### **5. Signup Page**
 
 📌 **Endpoint:** `/signup`
