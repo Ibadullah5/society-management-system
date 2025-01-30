@@ -11,7 +11,7 @@ The website consists of multiple pages, each serving a specific purpose. Below i
 
 ### **1. Admin Dashboard**
 
-📌 **Endpoint:** `admin-dashboard`
+📌 **Endpoint:** `/admin-dashboard`
 
 ### **2. User Dashboard**
 
